@@ -29,6 +29,6 @@ that used for Text2SpeechEditor! Devs could run the program from there via eclip
 
 ## Credits
 Marios Zixnalis</br>
-Thomas Patsanis</br>
+Thomas Patsanis https://github.com/Tompats</br>
 Andreas Theodorakopoulos</br>
 
