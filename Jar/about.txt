@@ -1,0 +1,16 @@
+Text2SpeechEditor
+
+Version -> 1.1 (Built with Java 11)
+Compatible with Windows, Unix, Mac OS
+Ioannina 2020
+
+This application is built for didactic purposes
+only.Built for Software Engineering class of 
+Computer Science department in University
+of Ioannina.All rights reserved.
+
+
+Created by:
+Andreas Theodorakopoulos
+Marios Zihnalis
+Thomas Patsanis
