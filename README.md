@@ -27,5 +27,7 @@ Step 2 -> Type the following command: java -jar Text2SpeechEditor.jar
 In the "Project File's" folder you can find the source code, tests and every file  
 that used for Text2SpeechEditor! Devs could run the program from there via eclipse.  
 
-
-
+Credits:
+    Marios Zichnalis
+    Thomas Patsanis
+    Andreas Theodorakopoulos
